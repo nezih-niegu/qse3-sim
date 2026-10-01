@@ -1,0 +1,67 @@
+{
+  "energy_gev": 10.0,
+  "profile": "gaussian-slab",
+  "resonant": {
+    "levels": [
+      2,
+      3
+    ],
+    "avoided_crossing": true,
+    "position_km": 162.7751834556371,
+    "density": 3.1266899876888004,
+    "gap_km_inv": 0.00018607336578276056,
+    "oscillation_length_km": 33767.2470251071,
+    "gamma": 0.0016098372022128149,
+    "hop_probability": 0.9974744681712691,
+    "gap_contrast": 3.2700740509959814,
+    "danger_fraction": 0.472
+  },
+  "all_pairs": [
+    {
+      "levels": [
+        1,
+        2
+      ],
+      "avoided_crossing": false,
+      "position_km": 0.0,
+      "density": 0.10000001583050677,
+      "gap_km_inv": 2.0774109238101205e-05,
+      "oscillation_length_km": 302452.69412831304,
+      "gamma": 855.723091053467,
+      "hop_probability": 0.0,
+      "gap_contrast": 1.0,
+      "danger_fraction": 0.636
+    },
+    {
+      "levels": [
+        1,
+        3
+      ],
+      "avoided_crossing": false,
+      "position_km": 117.14476317545031,
+      "density": 0.3022280653141092,
+      "gap_km_inv": 0.0006270644304232853,
+      "oscillation_length_km": 10019.999544445964,
+      "gamma": 2.2787465904544564,
+      "hop_probability": 0.027891124083375938,
+      "gap_contrast": 1.0034818811856876,
+      "danger_fraction": 0.0
+    },
+    {
+      "levels": [
+        2,
+        3
+      ],
+      "avoided_crossing": true,
+      "position_km": 162.7751834556371,
+      "density": 3.1266899876888004,
+      "gap_km_inv": 0.00018607336578276056,
+      "oscillation_length_km": 33767.2470251071,
+      "gamma": 0.0016098372022128149,
+      "hop_probability": 0.9974744681712691,
+      "gap_contrast": 3.2700740509959814,
+      "danger_fraction": 0.472
+    }
+  ],
+  "resonance_rho": 3.148789004100902
+}

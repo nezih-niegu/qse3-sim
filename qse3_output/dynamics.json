@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "gauge": "helical",
+    "matter": "gaussian-slab",
+    "energy_gev": 4.0,
+    "mass_km_inv": 0.01,
+    "wong_only": false,
+    "steps": 6000,
+    "dt_km": 0.26666666666666666
+  },
+  "final_probabilities": {
+    "nu_e": 0.0036634004928469918,
+    "nu_mu": 0.8445144089528919,
+    "nu_tau": 0.15182219055426155
+  },
+  "deflection_km": {
+    "y": -112.19020571684851,
+    "z": 0.01741292763687986
+  },
+  "path_length_km": 1599.920012619095,
+  "flavor_torque": 0.5085395705791348,
+  "force_gauge_mean": 0.008525704314599205,
+  "force_topological_mean": 2.2810791527420532e-05
+}
